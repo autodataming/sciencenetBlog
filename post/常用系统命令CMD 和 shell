@@ -1,0 +1,15 @@
+# 常用系统命令CMD 和 shell
+
+linux 中的命令通过工具unxutils https://sourceforge.net/projects/unxutils/files/latest/download  ，转移到CMD powershell中。
+直接拷贝exe 不可以用了，必须通过sh.exe 打开窗口。 
+
+## 常用命令
+1. which
+
+
+
+## 遇到问题
+1. which 突然消失不见了？
+初步推断 可能是PATH 环境变量出了问题。
+
+
